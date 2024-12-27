@@ -1,2 +1,2 @@
 # this is Bizli Bio
-it's all about bizli
+[Visit the website] (https://mahbub993436.github.io/bizli-bio/)
